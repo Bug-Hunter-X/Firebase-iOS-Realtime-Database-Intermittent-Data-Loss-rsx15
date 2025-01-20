@@ -1,0 +1,2 @@
+# Firebase iOS Realtime Database Intermittent Data Loss
+This repository demonstrates a bug where data written to the Firebase Realtime Database on iOS intermittently disappears. The issue is peculiar, with no apparent error messages logged. The data briefly appears in the Firebase console before vanishing.  The provided solution addresses potential causes by focusing on proper data handling and connection management.
